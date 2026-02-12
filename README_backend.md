@@ -38,7 +38,7 @@ Chaque fonction exécute une opération arithmétique simple.
 ## Dépendances
 
 - Flask
-- Python 3.11.9
+- Python 3.11 ou version ultérieure
 - Module interne `operators`
 
 ---
