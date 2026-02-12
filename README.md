@@ -40,20 +40,20 @@ Le projet ne supporte pas :
 1. Cloner le dépôt :
    ```bash
    git clone https://github.com/Simonbri/TP3-LOG3000-Equipe66.git
-
+   ```
 2. Installer les dépendances :
    ```bash
    cd TP3-LOG3000-Equipe66
    pip install -r requirements.txt
-
+   ```
 3. Lancer l'application :
    ```bash
    python app.py
-
+   ```
 4. Ouvrir dans un navigateur :
    ```cpp
    http://127.0.0.1:5000
-
+   ```
 ## Utilisation
 1. Cliquer sur les boutons numériques pour entrer un premier nombre
 2. Sélectionner un opérateur (+, -, *, /)
