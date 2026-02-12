@@ -7,7 +7,7 @@
 Développer une application web de calculatrice simple à l’aide de Flask en Python.  
 
 ## Prérequis d’installation
-- Python 3.8
+- Python 3.11.9
 - pip
 - Git
 - Un navigateur web
@@ -30,3 +30,11 @@ Développer une application web de calculatrice simple à l’aide de Flask en P
 4. Ouvrir dans un navigateur :
    ```cpp
    http://127.0.0.1:5000
+
+## Organisation modulaire
+
+Le projet est divisé en trois modules principaux :
+
+- Backend : logique et traitement des calculs
+- Templates : interface HTML
+- Static : ressources CSS
