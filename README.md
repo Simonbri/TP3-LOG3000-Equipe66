@@ -17,5 +17,5 @@ Développer une application web de calculatrice simple à l’aide de Flask en P
 1. Cloner le dépôt :
 
    ```bash
-   git clone https://github.com/VOTRE-UTILISATEUR/NOM-DU-REPO.git
-   cd NOM-DU-REPO
+   git clone https://github.com/Simonbri/TP3-LOG3000-Equipe66.git
+   cd TP3-LOG3000-Equipe66
