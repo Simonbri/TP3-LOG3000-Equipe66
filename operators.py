@@ -30,7 +30,7 @@ def subtract(a,b):
     Note :
         Le comportement attendu est a - b.
     """
-    return b - a
+    return a - b
 
 def multiply(a,b):
     """
