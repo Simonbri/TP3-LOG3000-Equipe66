@@ -62,4 +62,4 @@ def divide(a,b):
     Note :
         Devrait gérer la division par zéro de manière appropriée.
     """
-    return a // b
+    return a / b
