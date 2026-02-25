@@ -75,6 +75,19 @@ Pour exécuter les tests :
    pytest
    ```
 
+## Fusion et validation finale
+
+Après correction des bogues :
+
+- Chaque branche a fait l’objet d’une Pull Request.
+- Les correctifs ont été révisés et fusionnés dans la branche principale (main).
+- L’ensemble de la suite de tests a été exécuté après fusion.
+
+Résultat final :
+8 passed, 0 failed
+
+Cela confirme que tous les bogues identifiés ont été corrigés sans régression.
+
 ## Flux de contribution
 Le projet suit un workflow basé sur les bonnes pratiques Git :
 1. Création d’une Issue GitHub lorsqu'il y a détection d’un bogue
