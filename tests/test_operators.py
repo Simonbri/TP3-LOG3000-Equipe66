@@ -34,7 +34,7 @@ def test_divide():
     """
     Vérifie que la division retourne a / b.
     """
-    assert divide(7, 2) == 2.5
+    assert divide(7, 2) == 3.5
 
 
 def test_divide_by_zero():
