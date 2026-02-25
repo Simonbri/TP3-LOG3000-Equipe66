@@ -46,7 +46,7 @@ def multiply(a,b):
     Note :
         Le comportement attendu est a * b.
     """
-    return a ** b
+    return a * b
 
 def divide(a,b):
     """
